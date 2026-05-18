@@ -32,7 +32,7 @@ from pathlib import Path
 from typing import Iterator
 from zoneinfo import ZoneInfo
 
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup, Tag
 from icalendar import Calendar, Event
 
@@ -456,21 +456,31 @@ def write_ics(cal: Calendar, path: Path) -> None:
 
 
 def fetch(url: str) -> str:
-    log.info("Fetching %s", url)
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        ),
-        "Accept": (
-            "text/html,application/xhtml+xml,application/xml;q=0.9,"
-            "image/avif,image/webp,*/*;q=0.8"
-        ),
-        "Accept-Language": "en-AU,en;q=0.9",
-    }
-    r = requests.get(url, timeout=30, headers=headers)
-    r.raise_for_status()
-    return r.text
+    """
+    Fetch a page using curl_cffi to impersonate a real Chrome browser.
+
+    The plain `requests` library trips Cloudflare-style WAF fingerprinting
+    on these sites (returns 403). curl_cffi replays Chrome's actual TLS
+    handshake and header ordering, which the WAFs trust.
+
+    Tries a few impersonation profiles in case the site fingerprints
+    against a specific version.
+    """
+    profiles = ["chrome124", "chrome120", "safari17_0", "firefox133"]
+    last_err: Exception | None = None
+    for profile in profiles:
+        log.info("Fetching %s (impersonate=%s)", url, profile)
+        try:
+            r = requests.get(url, timeout=30, impersonate=profile)
+            if r.status_code == 200:
+                return r.text
+            log.warning("Got HTTP %s with profile %s", r.status_code, profile)
+        except Exception as exc:
+            log.warning("Profile %s failed: %s", profile, exc)
+            last_err = exc
+    raise RuntimeError(
+        f"All impersonation profiles failed for {url}. Last error: {last_err}"
+    )
 
 
 def main() -> int:
