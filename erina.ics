@@ -1,0 +1,555 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gracie-timetable//andrew//EN
+METHOD:PUBLISH
+X-WR-CALNAME:Gracie Elite Erina
+X-WR-TIMEZONE:Australia/Sydney
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels (GI)
+DTSTART;TZID=Australia/Sydney:20260601T100000
+DTEND;TZID=Australia/Sydney:20260601T110000
+DTSTAMP:20260528T200842Z
+UID:a9efd80821dfb8fe@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Monday\nMat: Mat-1\nClass: All Levels (
+ GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Piranhas BJJ (2 – 4 yrs)
+DTSTART;TZID=Australia/Sydney:20260202T093000
+DTEND;TZID=Australia/Sydney:20260202T103000
+DTSTAMP:20260528T200842Z
+UID:e5d61a162d746ea8@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Monday\nMat: Mat-1\nClass: Piranhas BJJ (
+ 2 – 4 yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Baby Shark
+DTSTART;TZID=Australia/Sydney:20260601T160000
+DTEND;TZID=Australia/Sydney:20260601T170000
+DTSTAMP:20260528T200842Z
+UID:2901642d0235f8de@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Monday\nMat: Mat-1\nClass: Baby Shark
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Kids Comp Class
+DTSTART;TZID=Australia/Sydney:20260601T162000
+DTEND;TZID=Australia/Sydney:20260601T172000
+DTSTAMP:20260528T200842Z
+UID:8d20a2dfe5ad1001@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Monday\nMat: Mat-2\nClass: Kids Comp Clas
+ s
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13yrs)
+DTSTART;TZID=Australia/Sydney:20260601T170000
+DTEND;TZID=Australia/Sydney:20260601T180000
+DTSTAMP:20260528T200842Z
+UID:0263135a95dec727@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Monday\nMat: Mat-1\nClass: Little Sharks 
+ (7 – 13yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Kids Muay Thai
+DTSTART;TZID=Australia/Sydney:20260601T170000
+DTEND;TZID=Australia/Sydney:20260601T180000
+DTSTAMP:20260528T200842Z
+UID:e8de3eb9267bf5ed@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Monday\nMat: Mat-2\nClass: Kids Muay 
+ Thai
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Fundamentals (Gi)
+DTSTART;TZID=Australia/Sydney:20260601T180000
+DTEND;TZID=Australia/Sydney:20260601T190000
+DTSTAMP:20260528T200842Z
+UID:2fabbc078dae9092@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Monday\nMat: Mat-1\nClass: Fundamentals
+  (Gi)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Muay Thai
+DTSTART;TZID=Australia/Sydney:20260601T180000
+DTEND;TZID=Australia/Sydney:20260601T190000
+DTSTAMP:20260528T200842Z
+UID:86a4fd7f4a17f5d1@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Monday\nMat: Mat-2\nClass: Muay Thai
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels Class (GI)
+DTSTART;TZID=Australia/Sydney:20260601T191500
+DTEND;TZID=Australia/Sydney:20260601T201500
+DTSTAMP:20260528T200842Z
+UID:8b3ddba9613dd9e8@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Monday\nMat: Mat-1\nClass: All Levels C
+ lass (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels (GI)
+DTSTART;TZID=Australia/Sydney:20260602T060000
+DTEND;TZID=Australia/Sydney:20260602T070000
+DTSTAMP:20260528T200842Z
+UID:ab6c6309fe078b95@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Tuesday\nMat: Mat-1\nClass: All Levels 
+ (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels (GI)
+DTSTART;TZID=Australia/Sydney:20260602T100000
+DTEND;TZID=Australia/Sydney:20260602T110000
+DTSTAMP:20260528T200842Z
+UID:56fe64b8e656dbb4@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Tuesday\nMat: Mat-1\nClass: All Levels 
+ (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Baby Sharks (4 – 7 yrs)
+DTSTART;TZID=Australia/Sydney:20260602T160000
+DTEND;TZID=Australia/Sydney:20260602T170000
+DTSTAMP:20260528T200842Z
+UID:bf2c4053cc397d33@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Tuesday\nMat: Mat-1\nClass: Baby Sharks (
+ 4 – 7 yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Kids Fitness Comp Class
+DTSTART;TZID=Australia/Sydney:20260602T163000
+DTEND;TZID=Australia/Sydney:20260602T173000
+DTSTAMP:20260528T200842Z
+UID:a7e028606158e58a@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Tuesday\nMat: Mat-2\nClass: Kids Fitness 
+ Comp Class
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13 yrs)
+DTSTART;TZID=Australia/Sydney:20260602T170000
+DTEND;TZID=Australia/Sydney:20260602T180000
+DTSTAMP:20260528T200842Z
+UID:479e81db7ea40b8d@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Tuesday\nMat: Mat-1\nClass: Little Sharks
+  (7 – 13 yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Practice Drills & Open Mat
+DTSTART;TZID=Australia/Sydney:20260602T170000
+DTEND;TZID=Australia/Sydney:20260602T180000
+DTSTAMP:20260528T200842Z
+UID:d9bc17890c170e41@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:OpenMat
+DESCRIPTION:Category: OpenMat\nDay: Tuesday\nMat: Mat-2\nClass: Practice D
+ rills & Open Mat
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Beginners Class (GI)
+DTSTART;TZID=Australia/Sydney:20260602T180000
+DTEND;TZID=Australia/Sydney:20260602T190000
+DTSTAMP:20260528T200842Z
+UID:9d379fe96c4e4f0b@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Tuesday\nMat: Mat-1\nClass: Beginners C
+ lass (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Women’s Only Self Defence BJJ (GI)
+DTSTART;TZID=Australia/Sydney:20260602T174500
+DTEND;TZID=Australia/Sydney:20260602T184500
+DTSTAMP:20260528T200842Z
+UID:e90d9c002e8b4afa@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Womens
+DESCRIPTION:Category: Womens\nDay: Tuesday\nMat: Mat-2\nClass: Women’s O
+ nly Self Defence BJJ (GI)
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Women’s Only All Levels Jiu Jitsu Class
+DTSTART;TZID=Australia/Sydney:20260602T183000
+DTEND;TZID=Australia/Sydney:20260602T193000
+DTSTAMP:20260528T200842Z
+UID:d76475c25f29904a@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Womens
+DESCRIPTION:Category: Womens\nDay: Tuesday\nMat: Mat-2\nClass: Women’s O
+ nly All Levels Jiu Jitsu Class
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Advanced (GI)
+DTSTART;TZID=Australia/Sydney:20260602T191500
+DTEND;TZID=Australia/Sydney:20260602T201500
+DTSTAMP:20260528T200842Z
+UID:15b126857cda655c@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Tuesday\nMat: Mat-1\nClass: Advanced (G
+ I)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Knife & Weapons Self Defence
+DTSTART;TZID=Australia/Sydney:20260602T191000
+DTEND;TZID=Australia/Sydney:20260602T201000
+DTSTAMP:20260528T200842Z
+UID:e25c18254dee521d@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Tuesday\nMat: Mat-2\nClass: Knife & Wea
+ pons Self Defence
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels (NO GI)
+DTSTART;TZID=Australia/Sydney:20260603T091500
+DTEND;TZID=Australia/Sydney:20260603T101500
+DTSTAMP:20260528T200842Z
+UID:62018f3055cb4a52@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Wednesday\nMat: Mat-1\nClass: All Level
+ s (NO GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Baby Sharks (4 – 7yrs)
+DTSTART;TZID=Australia/Sydney:20260603T161500
+DTEND;TZID=Australia/Sydney:20260603T171500
+DTSTAMP:20260528T200842Z
+UID:287cf9fbc09f39de@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Wednesday\nMat: Mat-1\nClass: Baby Sharks
+  (4 – 7yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13yrs)
+DTSTART;TZID=Australia/Sydney:20260603T170000
+DTEND;TZID=Australia/Sydney:20260603T180000
+DTSTAMP:20260528T200842Z
+UID:2c3bec2ecb9ba2b8@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Wednesday\nMat: Mat-1\nClass: Little Shar
+ ks (7 – 13yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Kids Muay Thai (5 – 7yrs)
+DTSTART;TZID=Australia/Sydney:20260603T170000
+DTEND;TZID=Australia/Sydney:20260603T180000
+DTSTAMP:20260528T200842Z
+UID:0913ccc6d9f6cb6d@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Wednesday\nMat: Mat-2\nClass: Kids Mu
+ ay Thai (5 – 7yrs)
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Beginners Class (GI)
+DTSTART;TZID=Australia/Sydney:20260603T180000
+DTEND;TZID=Australia/Sydney:20260603T190000
+DTSTAMP:20260528T200842Z
+UID:8308b1bedb1e96f3@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Wednesday\nMat: Mat-1\nClass: Beginners
+  Class (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Muay Thai
+DTSTART;TZID=Australia/Sydney:20260603T180000
+DTEND;TZID=Australia/Sydney:20260603T190000
+DTSTAMP:20260528T200842Z
+UID:1d4b093a23ec3f71@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Wednesday\nMat: Mat-2\nClass: Muay Th
+ ai
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Open Mat
+DTSTART;TZID=Australia/Sydney:20260603T190000
+DTEND;TZID=Australia/Sydney:20260603T200000
+DTSTAMP:20260528T200842Z
+UID:8de61ad866047281@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:OpenMat
+DESCRIPTION:Category: OpenMat\nDay: Wednesday\nMat: Mat-1\nClass: Open Mat
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All levels (NO GI)
+DTSTART;TZID=Australia/Sydney:20260604T060000
+DTEND;TZID=Australia/Sydney:20260604T070000
+DTSTAMP:20260528T200842Z
+UID:fed6337104bfbfcc@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Thursday\nMat: Mat-1\nClass: All levels
+  (NO GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All levels (GI)
+DTSTART;TZID=Australia/Sydney:20260604T110000
+DTEND;TZID=Australia/Sydney:20260604T120000
+DTSTAMP:20260528T200842Z
+UID:30c5a208055387d2@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Thursday\nMat: Mat-1\nClass: All levels
+  (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Baby Sharks (4 – 7yrs)
+DTSTART;TZID=Australia/Sydney:20260604T160000
+DTEND;TZID=Australia/Sydney:20260604T170000
+DTSTAMP:20260528T200842Z
+UID:323c24baa653c154@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Thursday\nMat: Mat-1\nClass: Baby Sharks 
+ (4 – 7yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Kids Muay Thai (7+ yrs)
+DTSTART;TZID=Australia/Sydney:20260604T164500
+DTEND;TZID=Australia/Sydney:20260604T174500
+DTSTAMP:20260528T200842Z
+UID:07c5fe77b924159b@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Thursday\nMat: Mat-2\nClass: Kids Mua
+ y Thai (7+ yrs)
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13yrs)
+DTSTART;TZID=Australia/Sydney:20260604T170000
+DTEND;TZID=Australia/Sydney:20260604T180000
+DTSTAMP:20260528T200842Z
+UID:8771a9479431bc8b@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Thursday\nMat: Mat-1\nClass: Little Shark
+ s (7 – 13yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Beginners (NO GI)
+DTSTART;TZID=Australia/Sydney:20260604T180000
+DTEND;TZID=Australia/Sydney:20260604T190000
+DTSTAMP:20260528T200842Z
+UID:8163c8fce2d4de81@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Thursday\nMat: Mat-1\nClass: Beginners 
+ (NO GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Muay Thai
+DTSTART;TZID=Australia/Sydney:20260604T180000
+DTEND;TZID=Australia/Sydney:20260604T190000
+DTSTAMP:20260528T200842Z
+UID:f25dfbe4dc38072a@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Thursday\nMat: Mat-2\nClass: Muay Tha
+ i
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels (GI)
+DTSTART;TZID=Australia/Sydney:20260529T100000
+DTEND;TZID=Australia/Sydney:20260529T110000
+DTSTAMP:20260528T200842Z
+UID:469c36230f5a5ed7@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Friday\nMat: Mat-1\nClass: All Levels (
+ GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Baby Sharks (4 – 6 yrs)
+DTSTART;TZID=Australia/Sydney:20260529T154500
+DTEND;TZID=Australia/Sydney:20260529T164500
+DTSTAMP:20260528T200842Z
+UID:9ffb9a51351f96d7@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Friday\nMat: Mat-1\nClass: Baby Sharks (4
+  – 6 yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13yrs)
+DTSTART;TZID=Australia/Sydney:20260529T163000
+DTEND;TZID=Australia/Sydney:20260529T173000
+DTSTAMP:20260528T200842Z
+UID:edda4d31166d8b94@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Friday\nMat: Mat-1\nClass: Little Sharks 
+ (7 – 13yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Practice & Open Mat
+DTSTART;TZID=Australia/Sydney:20260529T170000
+DTEND;TZID=Australia/Sydney:20260529T180000
+DTSTAMP:20260528T200842Z
+UID:2b07348ba6c13db7@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:OpenMat
+DESCRIPTION:Category: OpenMat\nDay: Friday\nMat: Mat-2\nClass: Practice & 
+ Open Mat
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All Levels Class (GI)
+DTSTART;TZID=Australia/Sydney:20260529T180000
+DTEND;TZID=Australia/Sydney:20260529T190000
+DTSTAMP:20260528T200842Z
+UID:e5e6a6d1df4bf663@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Friday\nMat: Mat-1\nClass: All Levels C
+ lass (GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Women Only  All Levels
+DTSTART;TZID=Australia/Sydney:20260530T080000
+DTEND;TZID=Australia/Sydney:20260530T090000
+DTSTAMP:20260528T200842Z
+UID:7261605436c7c3bf@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Womens
+DESCRIPTION:Category: Womens\nDay: Saturday\nMat: Mat-2\nClass: Women Only
+   All Levels
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Women’s Only Self Defence BJJ (GI)
+DTSTART;TZID=Australia/Sydney:20260530T090000
+DTEND;TZID=Australia/Sydney:20260530T100000
+DTSTAMP:20260528T200842Z
+UID:644c0089807b5e64@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Womens
+DESCRIPTION:Category: Womens\nDay: Saturday\nMat: Mat-2\nClass: Women’s 
+ Only Self Defence BJJ (GI)
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Little Sharks (7 – 13yrs)
+DTSTART;TZID=Australia/Sydney:20260530T090000
+DTEND;TZID=Australia/Sydney:20260530T100000
+DTSTAMP:20260528T200842Z
+UID:367947bc4e7f75d4@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Kids
+DESCRIPTION:Category: Kids\nDay: Saturday\nMat: Mat-1\nClass: Little Shark
+ s (7 – 13yrs)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Wrestling Class
+DTSTART;TZID=Australia/Sydney:20260530T100000
+DTEND;TZID=Australia/Sydney:20260530T110000
+DTSTAMP:20260528T200842Z
+UID:57772af507976642@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Wrestling
+DESCRIPTION:Category: Wrestling\nDay: Saturday\nMat: Mat-1\nClass: Wrestli
+ ng Class
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Muay Thai
+DTSTART;TZID=Australia/Sydney:20260530T100000
+DTEND;TZID=Australia/Sydney:20260530T110000
+DTSTAMP:20260528T200842Z
+UID:5f7cdff6d78bc8b3@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:MuayThai
+DESCRIPTION:Category: MuayThai\nDay: Saturday\nMat: Mat-2\nClass: Muay Tha
+ i
+LOCATION:Mat-2\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - All levels (NO GI)
+DTSTART;TZID=Australia/Sydney:20260530T110000
+DTEND;TZID=Australia/Sydney:20260530T120000
+DTSTAMP:20260528T200842Z
+UID:26ea7792282f6c5b@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:Adults
+DESCRIPTION:Category: Adults\nDay: Saturday\nMat: Mat-1\nClass: All levels
+  (NO GI)
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erina - Open Mat
+DTSTART;TZID=Australia/Sydney:20260531T080000
+DTEND;TZID=Australia/Sydney:20260531T090000
+DTSTAMP:20260528T200842Z
+UID:e73046ae5746e3a7@gracie-timetable
+RRULE:FREQ=WEEKLY
+CATEGORIES:OpenMat
+DESCRIPTION:Category: OpenMat\nDay: Sunday\nMat: Mat-1\nClass: Open Mat
+LOCATION:Mat-1\, 224 Penrose Crescent\, Erina NSW 2250
+END:VEVENT
+END:VCALENDAR
